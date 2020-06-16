@@ -1,5 +1,5 @@
 {
-    "name": "m6web/statsd-bundle",
+    "name": "birkof/statsd-bundle",
     "description" : "Add statds metrics in your symfony app. Allow you to bind metrics on any symfony event.",
     "type": "symfony-bundle",
     "license": "MIT",
@@ -9,6 +9,11 @@
             "name": "M6Web",
             "email": "opensource@m6web.fr",
             "homepage": "http://tech.m6web.fr/"
+        },
+        {
+            "name": "Daniel STANCU",
+            "email": "birkof@birkof.ro",
+            "homepage": "https://birkof.ro"
         }
     ],
     "config": {
